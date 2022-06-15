@@ -1,0 +1,26 @@
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+body{
+    background-image: "https://images.freeimages.com/images/small-previews/ec9/background-1630963.jpg";
+}
+div{
+    width: 1220px;
+    margin: auto;
+    background-color: #444444;
+    padding: 20px;
+    border-radius: 20px;
+}
+p{
+    color: whitesmoke;
+    font-size: 50px;
+    margin: 0px;
+    text-transform: uppercase;
+    text-align: center;
+}
+img:hover{
+    opacity: 0.5;
+}
